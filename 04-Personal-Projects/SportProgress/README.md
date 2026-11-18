@@ -30,3 +30,8 @@ The application opens in a web browser.
 ## Note
 This is a personal learning project.
 I am continuing to develop my Python and data analysis skills.
+
+### Development Process
+I developed this project as part of my independent learning journey. Whenever I encountered difficulties or needed additional guidance, I used AI tools (ChatGPT) to help me understand concepts, troubleshoot issues, and find solutions.
+
+My goal was not just to complete the project, but also to develop my programming skills and learn throughout the process.
