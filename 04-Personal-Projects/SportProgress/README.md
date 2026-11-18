@@ -17,3 +17,16 @@ SportProgress is an application for recording and analysing swimming results, tr
 
 ## Status
 Work in progress. More features are planned.
+
+## How to run the application
+1. Install the required libraries:
+   pip install -r requirements.txt
+
+3. Start the application:
+   streamlit run app.py
+
+The application opens in a web browser.
+
+## Note
+This is a personal learning project.
+I am continuing to develop my Python and data analysis skills.
